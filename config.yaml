@@ -1,4 +1,4 @@
 source_feed: "https://feeds.acast.com/public/shows/61e6bad9a1a7010014237412"
 output_file: "podcast.xml"
-# Dla Project Pages ustaw np. "/ytm-rss/". Dla User/Org Pages: "/"
-site_base_path: "/"
+# Dla Project Pages ustaw np. "/pdx-rss/". Dla User/Org Pages: "/"
+site_base_path: "/pdx-rss/"
